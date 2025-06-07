@@ -25,6 +25,5 @@ public class DisabledDatePicker
         Thread.sleep(5000);
         page.close();
 
-
     }
 }
